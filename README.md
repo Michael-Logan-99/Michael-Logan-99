@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Michael Logan
-- 🧠 I’m interested in helping people understand how their brain works
-- 💻 I’m currently learning React
+- 🧠 Helping people understand how their brain works
+- 💻 React
 - 📫 Email: hello@certain.health
 
 <!---
