@@ -1,4 +1,4 @@
-- 🧠 Helping people understand how their brain works
+- 🧠 Helping people understand their brain
 - 💻 React
 - 📫 Email: hello@certain.health
 
