@@ -1,6 +1,6 @@
 - 🧠 Helping people understand their brain
 - 💻 React
-- 📫 Email: hello@certain.health
+- 📫 Email: michael@certain.health
 
 <!---
 Michael-Logan-99/Michael-Logan-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
